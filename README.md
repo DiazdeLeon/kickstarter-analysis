@@ -49,7 +49,7 @@ What are some other possible tables and/or graphs that we could create?
 Another type of analysis, tables, and graphs that it might be possible to do are:
 
 -	## **Theater Outcomes by Country**
-This graph shows that the United States (US) is the country with more theater outcomes with 912, followed by the United Kingdom (UK) with 359 and Canada with 44. 
+This graph shows that the United States (US) is the country with more theater outcomes with 912, followed by the United Kingdom (UK) with 359 and Canada (CA) with 44. 
  
 ![image](https://user-images.githubusercontent.com/95872614/146653292-7fee373b-0ba1-40b5-adef-e2bd1aaff31b.png)
 
