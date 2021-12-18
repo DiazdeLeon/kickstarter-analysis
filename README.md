@@ -1,6 +1,6 @@
 # 1. Overview of project
 
-<p align="justify"> The purpose of the project is to revise, to analyze and conclude about the “Theater Outcomes by Launch Date” and “Outcomes Based on Goal”. The main objective is to find how successful or failed have been the campaigns by date and by output. Also, which would be the best strategy to reduce the number of failed campaigns. Finally, to revise if it is possible to performed a deeper analysis supported by statistical measures such as central tendency measures. 
+<p align="justify"> The purpose of the project is to revise, to analyze and conclude about the "Theater Outcomes by Launch Date" and "Outcomes Based on Goal". The main objective is to find how successful or failed have been the campaigns by date and by output. Also, which would be the best strategy to reduce the number of failed campaigns. Finally, to revise if it is possible to performed a deeper analysis supported by statistical measures such as central tendency measures. 
 
 # 2. Analysis and challenges
 
@@ -49,12 +49,10 @@ What are some other possible tables and/or graphs that we could create?
 
 # 6. More analysis
 Another type of analysis, tables, and graphs that it might be possible to do are:
-
 -	## **6.1 Theater Outcomes by Country**
 This graph shows that the United States (US) is the country with more theater outcomes with 912, followed by the United Kingdom (UK) with 359 and Canada (CA) with 44. 
  
 ![image](https://user-images.githubusercontent.com/95872614/146653292-7fee373b-0ba1-40b5-adef-e2bd1aaff31b.png)
-
 
 -	## **6.2 Theater outcomes by subcategory**
 ![image](https://user-images.githubusercontent.com/95872614/146653296-cbb8b180-e24d-4515-9296-93938cb3bf58.png)
