@@ -14,8 +14,9 @@
 
 ![image](https://user-images.githubusercontent.com/95872614/146653230-43e29a81-b36c-4460-b515-0b2600588b13.png)
 
-<p align="justify"> It is important to underline that the data shows seasonality, it is possible to see that during the months of May (111), June (100) and July (87) are the best outcomes, which make sense, because is the summer season. During the summer most of the people have more available time to spend in cultural activities. The decline of the outcomes starts during the winter, specifically during November (54) and December (37). This behavior might be explained because most of the people spend their personal incomes preparing the holidays and their spare time is dedicated to local and close family activities. In the other hand, it might be possible that during the summer season most the people spend their personal income in cultural activities and their spare time is share with friends and colleagues.  
-In order to reduce the number of failed campaigns that has been addressed during the winter season, a possible strategy to increase the number of outcomes during the winter, it may be to find out or to develop a new niche, based on the preferences and interest of “winter people”. 
+<p align="justify"> It is important to underline that the data shows seasonality, it is possible to see that during the months of May (111), June (100) and July (87) are the best outcomes, which make sense, because is the summer season. During the summer most of the people have more available time to spend in cultural activities. The decline of the outcomes starts during the winter, specifically during November (54) and December (37). 
+ 
+ This behavior might be explained because most of the people spend their personal incomes preparing the holidays and their spare time is dedicated to local and close family activities. In the other hand, it might be possible that during the summer season most the people spend their personal income in cultural activities and their spare time is share with friends and colleagues. In order to reduce the number of failed campaigns that has been addressed during the winter season, a possible strategy to increase the number of outcomes during the winter, it may be to find out or to develop a new niche, based on the preferences and interest of “winter people”. 
 
 # 4. Outcomes Based on Goal
 <p align="justify"> The successful or failed of the campaigns are directly related to the outcome goal. It is observed in the following chart that the 71% of successful campaigns based on the outcome goal is located in the range of less than a 1,000 US dollars, while the 58% of the failed are located at the range of greater than 50,000 US dollars. 
@@ -72,5 +73,6 @@ This graph shows that the United States (US) is the country with more theater ou
 
 ![image](https://user-images.githubusercontent.com/95872614/146653305-42fb7400-2a41-4d66-adc8-950d6ffc4951.png)
 
- 
-Followed by the ones located at the goal range of 5,000 to 9,999 with 313 successful campaigns.
+ Followed by the ones located at the goal range of 5,000 to 9,999 with 313 successful campaigns.
+ # 6. Final conclusion
+It was possible to performed a deeper analysis utilizing other charts, tables and central tendency measures. The application of these new elements allowed to know more about the market, outcomes and pleadges. 
