@@ -68,7 +68,7 @@ This graph shows that the United States (US) is the country with more theater ou
 
  <p align="justify"> One of the challenges of this kind of analysis is that the data is given is US nominal dollars, which make the figures too large for the interpretation. In this case, it is observed that the variance and standar deviation figures are very high. However, it could explain that the goal standard deviation is almost 22K while the pleadge is almost 80K. This means that the goal standard deviation is 22K away from its average, while the pleadge is almost 80K away from its average. 
 
-<p align="justify"> Finally, it was possible to determinate some ranges based on the goal and it is obsderved that the major number of successful teather campaigns in the US are located in the goal range of 1000 to 4,999 USD.
+<p align="justify"> Finally, it was possible to determinate some ranges based on the goal and it is observed that the major number of successful teather campaigns in the US are located in the goal range of 1000 to 4,999 USD.
 
 ![image](https://user-images.githubusercontent.com/95872614/146653305-42fb7400-2a41-4d66-adc8-950d6ffc4951.png)
 
