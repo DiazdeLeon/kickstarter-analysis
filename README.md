@@ -45,21 +45,22 @@ In order to reduce the number of failed campaigns that has been addressed during
 * There was not a clear currency specification for the outcomes based on goal. I have done the strong assumption that the data is reported in US dollars. 
 What are some other possible tables and/or graphs that we could create?
 * It might be possible to do a pay chart to present the percentages of successful, failed and cancel of theater outcomes by launch date.
-* I think the graph of outcomes based on goal would have been easier to read if it were drawn as bars. 
+* It is likely to do the graph of outcomes based on goal would have been easier to read if it were drawn as bars. 
 
 # 6. More analysis
 Another type of analysis, tables, and graphs that it might be possible to do are:
--	## **6.1 Theater Outcomes by Country**
+
+## **6.1 Theater Outcomes by Country**
 This graph shows that the United States (US) is the country with more theater outcomes with 912, followed by the United Kingdom (UK) with 359 and Canada (CA) with 44. 
  
 ![image](https://user-images.githubusercontent.com/95872614/146653292-7fee373b-0ba1-40b5-adef-e2bd1aaff31b.png)
 
--	## **6.2 Theater outcomes by subcategory**
+## **6.2 Theater outcomes by subcategory**
 ![image](https://user-images.githubusercontent.com/95872614/146653296-cbb8b180-e24d-4515-9296-93938cb3bf58.png)
 
 <p align="justify"> It this case it is observed that 1,066 of the outcomes came from plays, which represents the 77%, followed by spaces with 187 outcomes, meaning 13%, while musicals have 140 outcomes which means 10%. Also, the percentrage of pledge it is observed that 59% come from plays, 35% from spaces and 6% from musicals. 
 
-<p align="justify"> Finally as the Unites States is the main market, it was decided to do a short analysis with central tendency measures based on this market. It was taking into consideration the succesful campaignes and here are the results:
+<p align="justify"> Finally as the Unites States is the main market, it was decided to do a short analysis with central tendency measures based on this market. It was taking into consideration the succesful campaigns and here are the results:
 
  ![image](https://user-images.githubusercontent.com/95872614/146653300-bb4eee1e-6872-4835-88e8-2828bb8bd4c8.png)
 
