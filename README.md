@@ -51,9 +51,14 @@ Another type of analysis, tables, and graphs that it might be possible to do are
 
 -	Theater Outcomes by Country
 
- 
 This graph shows that the United States (US) is the country with more theater outcomes with 912, followed by the United Kingdom (UK) with 359 and Canada with 44. 
+![image](https://user-images.githubusercontent.com/95872614/146653292-7fee373b-0ba1-40b5-adef-e2bd1aaff31b.png)
+
+
 -	Theater outcomes by subcategory
+
+![image](https://user-images.githubusercontent.com/95872614/146653296-cbb8b180-e24d-4515-9296-93938cb3bf58.png)
+
 
 It this case it is observed that 1,066 of the outcomes came from plays, which represents the 77%, followed by spaces with 187 outcomes, meaning 13%, while musicals have 140 outcomes which means 10%. 
 
@@ -62,11 +67,14 @@ Also, the percentrage of pledge it is observed that 59% come from plays, 35% fro
 
 Finally as the Unites States is the main market, it was decided to do a short analysis with central tendency measures based on this market. It was taking into consideration the succesful campaignes and here are the results:
 
- 
+ ![image](https://user-images.githubusercontent.com/95872614/146653300-bb4eee1e-6872-4835-88e8-2828bb8bd4c8.png)
+
 
 The were 1,651 succesful campaigns in the United States. The average of goal were 10.5K while the pleadge was 19.3K. The median of the goal was 4K and the pleadge was 5K. The goal mode was 5K and the pleadge goal was 2K. The minimum goal was 1 dollar and the minimum pleadge was 10 dollars. The maximium goal was set up in 400K while the maximum pleadge was captures in 2.3 USD million. 
 One of the challenges of this kind of analysis is that the data is given is US nominal dollars, which make the figures too large for the interpretation. In this case, it is observed that the variance and standar deviation figures are very high. However, it could explain that the goal standard deviation is almost 22K while the pleadge is almost 80K. This means that the goal standard deviation is 22K away from its average, while the pleadge is almost 80K away from its average. 
 
 Finally, it was possible to determinate some ranges based on the goal and it is obsderved that the major number of successful teather campaigns in the US are located in the goal range of 1000 to 4,999 USD.
+![image](https://user-images.githubusercontent.com/95872614/146653305-42fb7400-2a41-4d66-adc8-950d6ffc4951.png)
+
  
 Followed by the ones located at the goal range of 5,000 to 9,999 with 313 successful campaigns.
