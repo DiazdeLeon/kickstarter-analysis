@@ -14,10 +14,17 @@ Due to the nature of the data, it was possible only to perform an analysis throu
 
 From a total of 1,369 theater campaigns, it is possible to see that 61.3% have been successful, 36% have been failed and 2.7% have been canceled. The average of the successful campaigns is 70, while the average of failed is 41 and canceled 3.
 
+![image](https://user-images.githubusercontent.com/95872614/146653230-43e29a81-b36c-4460-b515-0b2600588b13.png)
+
 It is important to underline that the data shows seasonality, it is possible to see that during the months of May (111), June (100) and July (87) are the best outcomes, which make sense, because is the summer season. During the summer most of the people have more available time to spend in cultural activities. The decline of the outcomes starts during the winter, specifically during November (54) and December (37). This behavior might be explained because most of the people spend their personal incomes preparing the holidays and their spare time is dedicated to local and close family activities. In the other hand, it might be possible that during the summer season most the people spend their personal income in cultural activities and their spare time is share with friends and colleagues.  
 In order to reduce the number of failed campaigns that has been addressed during the winter season, a possible strategy to increase the number of outcomes during the winter, it may be to find out or to develop a new niche, based on the preferences and interest of “winter people”. 
+
 # Outcomes Based on Goal
 The successful or failed of the campaigns are directly related to the outcome goal. It is observed in the following chart that the 71% of successful campaigns based on the outcome goal is located in the range of less than a 1,000 US dollars, while the 58% of the failed are located at the range of greater than 50,000 US dollars. 
+
+![image](https://user-images.githubusercontent.com/95872614/146653241-71bc156d-3e13-47c4-b42e-935076831458.png)
+
+
 Also, it is observed that the number of campaigns canceled increase as the outcome goal increase. 
 
 It means that, higher the outcome based on goal is, the greater the failure and/or canceled of the campaign will be. 
