@@ -26,7 +26,7 @@ In order to reduce the number of failed campaigns that has been addressed during
 <p align="justify"> Also, it is observed that the number of campaigns canceled increase as the outcome goal increase. It means that, higher the outcome based on goal is, the greater the failure and/or canceled of the campaign will be. 
 
 
-<p align="justify"> Although, it will be interesting to determinate what theater campaigns were capable to reach the 47% and 49% of successful (in the range of  35,000 to 39,0000 USD, and 40,000 to 44,999 USD, respectively). A good strategy to reduce the failure and/or cancelation of the campaigns will be to set up more reasonable outcome goals, in this case we can set us a range between less a 1,000 USD and 20,000 USD. 
+<p align="justify"> Although, it would be interesting to determinate what theater campaigns were capable to reach the 47% and 49% of successful (in the range of  35,000 to 39,0000 USD, and 40,000 to 44,999 USD, respectively). A good strategy to reduce the failure and/or cancelation of the campaigns will be to set up more reasonable outcome goals, in this case we can set us a range between less a 1,000 USD and 20,000 USD. 
 
 # 5. Results
  
