@@ -25,20 +25,22 @@ The successful or failed of the campaigns are directly related to the outcome go
 ![image](https://user-images.githubusercontent.com/95872614/146653241-71bc156d-3e13-47c4-b42e-935076831458.png)
 
 
-Also, it is observed that the number of campaigns canceled increase as the outcome goal increase. 
-
-It means that, higher the outcome based on goal is, the greater the failure and/or canceled of the campaign will be. 
+Also, it is observed that the number of campaigns canceled increase as the outcome goal increase. It means that, higher the outcome based on goal is, the greater the failure and/or canceled of the campaign will be. 
 
 
 Although, it will be interesting to determinate what theater campaigns were capable to reach the 47% and 49% of successful (in the range of  35,000 to 39,0000 USD, and 40,000 to 44,999 USD, respectively) 
 A good strategy to reduce the failure and/or cancelation of the campaigns will be to set up more reasonable outcome goals, in this case we can set us a range between less a 1,000 USD and 20,000 USD. 
+
 # Results
 What are two conclusions you can draw about the Theater Outcomes by Launch Date?
 The first conclusion is that theater campaigns have been successful, based on the data we can concluded that 61.3% have been successful, 36% have been failed and 2.7% have been canceled. The average of the successful campaigns is 70, while the average of failed is 41 and canceled 3.
 The second conclusion is that the data behaves on seasonality during the summer is where there are more successful campaigns, while in the winter the number of failed campaigns increase. 
+
 # What can you conclude about the Outcomes based on Goals?
 The successful or failed of the campaigns are directly related to the outcome goal. It means that, higher the outcome based on goal is, the greater the failure and/or canceled of the campaign will be.
+
 # What are some limitations of this dataset?
+
 -	There was no information about a theater subcategory to analyze or to understand the preferences of the people
 -	There was no data about the attendees, such as, gender, age, education level, personal income, etc. It is well known that as higher the personal income and/or higher the education level, people trend to spend more money in cultural activities.  
 -	There was no data about the year. The success of failure of a theater campaign is highly dependent of the year. If there was a specific year in which there was a pandemic or an economic crisis it is obvious that failure theater campaign will be higher in comparison to another year. 
@@ -46,17 +48,16 @@ The successful or failed of the campaigns are directly related to the outcome go
 What are some other possible tables and/or graphs that we could create?
 -	It might be possible to do a pay chart to present the percentages of successful, failed and cancel of theater outcomes by launch date.
 -	I think the graph of outcomes based on goal would have been easier to read if it were drawn as bars. 
+-	
 # More analysis
 Another type of analysis, tables, and graphs that it might be possible to do are:
 
--	Theater Outcomes by Country
-
+-	## **Theater Outcomes by Country**
 This graph shows that the United States (US) is the country with more theater outcomes with 912, followed by the United Kingdom (UK) with 359 and Canada with 44. 
 ![image](https://user-images.githubusercontent.com/95872614/146653292-7fee373b-0ba1-40b5-adef-e2bd1aaff31b.png)
 
 
--	Theater outcomes by subcategory
-
+-	## **Theater outcomes by subcategory**
 ![image](https://user-images.githubusercontent.com/95872614/146653296-cbb8b180-e24d-4515-9296-93938cb3bf58.png)
 
 
@@ -74,6 +75,7 @@ The were 1,651 succesful campaigns in the United States. The average of goal wer
 One of the challenges of this kind of analysis is that the data is given is US nominal dollars, which make the figures too large for the interpretation. In this case, it is observed that the variance and standar deviation figures are very high. However, it could explain that the goal standard deviation is almost 22K while the pleadge is almost 80K. This means that the goal standard deviation is 22K away from its average, while the pleadge is almost 80K away from its average. 
 
 Finally, it was possible to determinate some ranges based on the goal and it is obsderved that the major number of successful teather campaigns in the US are located in the goal range of 1000 to 4,999 USD.
+
 ![image](https://user-images.githubusercontent.com/95872614/146653305-42fb7400-2a41-4d66-adc8-950d6ffc4951.png)
 
  
